@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @HarshRaj2717
-- 👀 I’m interested in CV, ML, DSA and software developement.
-- 🌱 I’m familiar with Python, C, C++, Java, Git, Linux.
-- 💞️ I’m looking to collaborate on projects/problems in python/C++ depending upon my knowledge at the time.
-- 📫 How to reach me : discord - RTG#7041
+<p align="center"> <img src="Assets/header.png" alt="HarshRaj2717" /> </p>
 
-<!---
-HarshRaj2717/HarshRaj2717 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=harshraj2717&color=fa418b&style=for-the-badge" alt="HarshRaj2717" /> </p>
+
+<h3 align="center">A passionate developer and 2nd year B.Tech student, from India.</h3>
+
+<p align="center">gdfgfgfd</p>
