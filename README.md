@@ -33,3 +33,15 @@
 <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/182px-The_GIMP_icon_-_gnome.svg.png" alt="GIMP" title="GIMP" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667" alt="Figma" title="Figma" width="40" height="40"/> </a>
 </p>
+
+---
+
+<h3 align="center">Connect with Me</h3>
+
+<p align="center">
+<a href="harshraj2717@gmail.com" target="_blank" rel="noreferrer"> <img src="Assets/logos/gmail.png" alt="Gmail" title="Gmail" width="40" height="40"/> </a>
+<a href="https://discordapp.com/users/rtg7041" target="_blank" rel="noreferrer"> <img src="Assets/logos/discord.jpg" alt="Discord - RTG#7041" title="Discord - RTG#7041" width="40" height="40"/> </a>
+<a href="https://www.instagram.com/harsh_raj2717/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/225px-Instagram_logo_2022.svg.png" alt="Instagram" title="Instagram" width="40" height="40"/> </a>
+<a href="https://www.linkedin.com/in/harshraj2717/" target="_blank" rel="noreferrer"> <img src="Assets/logos/linkedin.png" alt="LinkedIn" title="LinkedIn" width="40" height="40"/> </a>
+<a href="https://www.hackerrank.com/harshraj2717" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" title="HackerRank" width="40" height="40"/> </a>
+</p>
