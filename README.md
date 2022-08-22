@@ -8,9 +8,8 @@
 
 ---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=harshraj2717&theme=radical&show_icons=true" alt="github_stats" width=70%> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=harshraj2717&theme=radical&show_icons=true" alt="github_stats" width=60%> </p>
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshraj2717&theme=radical" alt="streak_stats" width=70%> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshraj2717&theme=radical" alt="streak_stats" width=60%> </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshraj2717&layout=compact&theme=radical" alt="languages_stats" width=70%> <p>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshraj2717&layout=compact&theme=radical" alt="languages_stats" width=60%> </p>
