@@ -14,4 +14,6 @@
         <td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshraj2717&theme=radical" alt="streak_stats"> </td>
     </tr>
 </table>
+<table>
        <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshraj2717&layout=compact&theme=radical" alt="languages_stats"> <p>
+</table>
