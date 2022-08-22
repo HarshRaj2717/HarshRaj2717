@@ -32,6 +32,7 @@
 <a href="https://en.wikipedia.org/wiki/Linux" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/225px-Tux.svg.png" alt="Linux" title="Linux" width="40" height="40"/> </a>
 <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/182px-The_GIMP_icon_-_gnome.svg.png" alt="GIMP" title="GIMP" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667" alt="Figma" title="Figma" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/aa0e4ed5f01fb902f1405feb0a9baa285076a5b981e4323267c6b9977aa1d9fb/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f76697375616c73747564696f5f636f64652f76697375616c73747564696f5f636f64652d69636f6e2e737667" alt="VScode" title="VScode" width="40" height="40"/> </a>
 </p>
 
 ---
