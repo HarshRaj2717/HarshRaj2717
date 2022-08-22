@@ -16,7 +16,7 @@
 
 ---
 
-<h2 align="center">Languages and Tools</h2>
+<h3 align="center">Languages and Tools</h3>
 
 <p align="center">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/182px-Python-logo-notext.svg.png" alt="Python" title="Python" width="40" height="40"/></a>
