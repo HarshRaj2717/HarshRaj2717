@@ -2,6 +2,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshraj2717&color=fa418b&style=for-the-badge" alt="HarshRaj2717" /> </p>
 
-<h3 align="center">A passionate developer and 2nd year B.Tech student, from India.</h3>
+<h3 align="center">A developer and 2nd year B.Tech student, from India.</h3>
 
-<p align="center">gdfgfgfd</p>
+<p align="center">🌱 I’m currently learning <em>g</em> lutter</p>
