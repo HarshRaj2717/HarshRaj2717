@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshraj2717&color=fa418b&style=for-the-badge" alt="profile_views" /> </p>
 
-<h3 align="center">A passionate developer who's in love with coffee and linux❤️.</h3>
+<h3 align="center">A passionate developer who's in love with coffee and Linux❤️.</h3>
 
 <p align="center"></em>I am a undergrad student from India. Currently learning various languages, tools and DSA while building various personal projects from time to time.</p>
 
