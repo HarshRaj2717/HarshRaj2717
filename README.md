@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate developer who's in love with coffee and Linux❤️.</h3>
 
-<p align="center"></em>I am a undergrad student from India. Currently learning various languages, tools and DSA while building various personal projects from time to time.</p>
+<p align="center"></em>I am an undergrad student from India, currently learning DSA and also working on a few personal projects in Python and C++ from time to time.</p>
 
 ---
 
