@@ -41,6 +41,5 @@
 
 <p align="center">
 <a href="mailto:harshraj2717@gmail.com" target="_blank" rel="noreferrer"> <img src="Assets/logos/gmail.png" alt="harshraj2717@gmail.com" title="Mail" width="40" height="40"/> </a>
-<a href="https://discordapp.com/users/rtg7041" target="_blank" rel="noreferrer"> <img src="Assets/logos/discord.jpg" alt="Discord - RTG#7041" title="Discord - RTG#7041" width="40" height="40"/> </a>
 <a href="https://www.instagram.com/harsh_raj2717/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/225px-Instagram_logo_2022.svg.png" alt="Instagram" title="Instagram" width="40" height="40"/> </a>
 <a href="https://www.linkedin.com/in/harshraj2717/" target="_blank" rel="noreferrer"> <img src="Assets/logos/linkedin.png" alt="LinkedIn" title="LinkedIn" width="40" height="40"/> </a>
