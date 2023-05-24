@@ -19,7 +19,7 @@
 <h3 align="center">Technical Skills</h3>
 
 <p align="center"><strong>Languages</strong>: Python, C/C++, HTML/CSS, JavaScript, Bash, SQL</p>
-<p align="center"><strong>Frameworks</strong>: Flask, BootStrap</p>
+<p align="center"><strong>Frameworks</strong>: Django, Flask, BootStrap, Tailwind</p>
 <p align="center"><strong>Developer Tools</strong>: Linux, Git, Vim, VS Code, Figma</p>
 <p align="center"><strong>Libraries</strong>: Selenium, Pandas, NumPy, Matplotlib, SciKit-Learn, Tkinter, OpenCV</p>
 
