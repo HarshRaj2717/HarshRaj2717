@@ -1,5 +1,5 @@
 <!-- <p align="center"> <img src="Assets/header.png" alt="header.png" /> </p> -->
-<p align="center"> <a href="https://harsh-raj-portfolio-final.vercel.app/" target="_blank" rel="noreferrer"> <img src="Assets/header.png" alt="header.png" title="Click here to check out my Portfolio & Blog." /></a> </p>
+<p align="center"> <a href="https://hraj.dev/" target="_blank" rel="noreferrer"> <img src="Assets/header.png" alt="header.png" title="Click here to check out my Portfolio & Blog." /></a> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshraj2717&color=fa418b&style=for-the-badge" alt="profile_views" /> </p>
 
 <h3 align="center">A focused learner & developer who's in love with coffee and Linux❤️.</h3>
