@@ -4,7 +4,7 @@
 
 <h3 align="center">A focused learner & developer who's in love with coffee and Linux❤️.</h3>
 
-<p align="center"></em>I'm a software engineer based in Delhi, India. I'm passionate about technology and love to tinker in my free time.</p>
+<p align="center"></em>I'm a Btech (CSE) student based in Delhi, India. I'm passionate about technology and love to tinker in my free time.</p>
 
 ---
 
