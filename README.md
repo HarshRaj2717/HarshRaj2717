@@ -14,13 +14,12 @@ A Btech (CSE) student based in Delhi, India who loves linux 🐧 & coffee ☕.
 
 - Libraries: *Selenium, Pandas, NumPy, Matplotlib, SciKit-Learn, Tkinter, OpenCV*
 
-## 🐱 My Git Stats
+## 🐱 My GitHub Stats
 
-> ![Loading...](https://github-readme-stats-harshraj2717.vercel.app/api?username=harshraj2717&theme=dark&show_icons=true)
->
+
 > ![Loading...](https://github-readme-streak-stats.herokuapp.com/?user=harshraj2717&theme=dark)
 >
-> ![Loading...](https://github-readme-stats-harshraj2717.vercel.app/api/top-langs/?username=harshraj2717&layout=compact&theme=dark)
+> ![Loading...](https://github-readme-stats-pvt-2.vercel.app/api/top-langs/?username=harshraj2717&theme=dark)
 
 ## 👉 Connect with Me
 
