@@ -23,4 +23,4 @@ A Btech (CSE) student based in Delhi, India who loves linux 🐧 & coffee ☕.
 
 ## 👉 Connect with Me
 
-**[Website](https://hraj.dev) | [Email](mailto:harshraj2717@gmail.com) | [LinkedIn](https://www.linkedin.com/in/harshraj2717/)**
+#### **[Website](https://hraj.dev) | [Email](mailto:harshraj2717@gmail.com) | [LinkedIn](https://www.linkedin.com/in/harshraj2717/)**
