@@ -17,7 +17,7 @@ A Btech (CSE) student based in Delhi, India who loves linux 🐧 & coffee ☕.
 ## 🐱 My GitHub Stats
 
 
-> ![Loading...](https://github-readme-streak-stats.herokuapp.com/?user=harshraj2717&theme=dark)
+> ![Loading...](https://github-readme-streak-stats-harshraj2717.vercel.app/?user=harshraj2717&theme=dark)
 >
 > ![Loading...](https://github-readme-stats-pvt-2.vercel.app/api/top-langs/?username=harshraj2717&theme=dark)
 
