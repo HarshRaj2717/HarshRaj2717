@@ -12,7 +12,7 @@ A Btech (CSE) student based in Delhi, India who loves linux 🐧 & coffee ☕.
 
 - Developer Tools: *Linux, Git, Vim, VS Code, Figma*
 
-- Libraries: *Selenium, Pandas, NumPy, Matplotlib, SciKit-Learn, Tkinter, OpenCV, React*
+- Libraries: *Selenium, Pandas, NumPy, Matplotlib, SciKit-Learn, Tkinter, OpenCV, React, React-Native*
 
 ## 🐱 My GitHub Stats
 
