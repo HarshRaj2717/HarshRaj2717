@@ -1,6 +1,6 @@
 # Hi 👋 I am Harsh Raj
 
-A Btech (CSE) student based in Delhi, India who loves linux 🐧 & coffee ☕.
+A Btech (CSE) student based in Delhi, India who loves full-stack 💻, linux 🐧 & coffee ☕.
 
 **_Know all about me here_ : [hraj.dev](https://hraj.dev)**
 
