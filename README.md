@@ -8,11 +8,11 @@ A Btech (CSE) student based in Delhi, India who loves full-stack üíª, linux üê
 
 - Languages: *Python, C/C++, JavaScript, Rust, Bash, SQL, HTML/CSS*
 
-- Frameworks: *NextJS, ExpressJS, Django, FastAPI, Flask, Tailwind*
+- Frameworks: *NextJS, ExpressJS, Django, FastAPI, Tailwind*
 
-- Developer Tools: *Linux, Git, Vim, VS Code, Figma*
+- Developer Tools: *Linux, Git, Vim, VS Code*
 
-- Libraries: *React, Selenium, Pandas, NumPy, OpenCV, React-Native*
+- Libraries: *React, Selenium, Pandas, NumPy, OpenCV*
 
 - Others: *PostgreSQL, MongoDB*
 
