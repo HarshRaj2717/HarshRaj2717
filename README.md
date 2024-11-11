@@ -6,15 +6,13 @@ An SDE from India who loves to tinker around.
 
 ## 💻 Things I have worked on
 
-- Languages: *Python, C/C++, JavaScript, Rust, Bash, SQL, HTML/CSS*
+- Languages: *C/C++, Python, SQL, C#, JavaScript, Bash*
 
-- Frameworks: *NextJS, ExpressJS, Django, FastAPI, Tailwind*
+- Frameworks: *NextJS, Django, ExpressJS, FastAPI, TailwindCSS*
 
 - Developer Tools: *Linux, Git, Vim, VS Code*
 
 - Libraries: *React, Selenium, Pandas, NumPy, OpenCV*
-
-- Others: *PostgreSQL, MongoDB*
 
 ## 🐱 My GitHub Stats
 
